@@ -5,6 +5,7 @@
   height: 200px;
   width: 65%;
   direction: rtl;
+  align-items: center;
 }
 figcaption{
   display: none;
